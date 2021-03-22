@@ -1,0 +1,117 @@
+html{
+    box-sizing: border-box;
+}
+
+*, *:before, *:after, {
+    box-sizing:inherit;
+}
+
+
+img{ 
+max-width: 100%;
+}
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+.grid-container{
+    display: inline-grid;
+    grid-gap: 20px;
+}
+
+
+
+
+
+
+.title-header{
+    color: #9672C4;
+    background-color: lavender;
+    padding: 20px;
+    text-align: center;
+    font-family: 'Satisfy', cursive;
+    font-size: 72px;
+    border: dotted floralwhite 20px;
+    
+    }
+.how-i-got-here{
+  color: #9672C4;
+    background-color:lavender;
+        padding: 20px;
+        text-align: center;
+    border: dotted floralwhite 20px;
+    
+}
+.future-plans{
+    color:#9672C4;
+    background-color:lavender;
+    padding:20px;
+    text-align: center;
+     border: dotted floralwhite 20px;
+}
+
+.center{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    
+    
+}
+.about-me{
+    color: #9672C4;
+    background-color: lavender;
+    padding: 20px;
+    text-align:center;
+     border: dotted floralwhite 20px;
+    
+}
+
+
+
+
+
+table {
+  border-collapse: collapse;
+}
+
+th, td {
+  border-bottom: 1px solid #ddd;
+}
+th, td {
+  padding: 15px;
+  text-align: left;
+}
+tr:nth-child(even) {background-color: floralwhite;}
+th {
+  background-color: #9672C4;
+  color: floralwhite;
+}
+
+img{
+    border-radius:50%;
+}
+
+
+
+div {
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+div {
+    line-height: 2.1;
+    
+}
+
+.link{
+    opacity: 50%;
+        cursor: pointer; 
+}
+
+.container{
+    font-family: 'Satisfy', cursive;
+}
+
+
